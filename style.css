@@ -99,3 +99,23 @@ body{
     cursor: pointer;
 }
 
+.aptoDetalhado{
+    background-color: #e4d562;
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.voltar-tela-principal{
+    background-color: rgb(12, 70, 195);
+    color: beige;
+    height: 28px;
+    width: 50px;
+    font-size: 12px;
+}
+
+.voltar-tela-principal:hover{
+    background-color: rgb(52, 111, 240);
+    cursor: pointer;
+}
